@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d8a07b3cfe2f0714fbf0dd5d7e46dffb
+timeCreated: 1512633653
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 5x5 rounded
+  fontNames:
+  - 5x5 rounded
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
