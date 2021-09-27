@@ -98,20 +98,20 @@ public class Area : MonoBehaviour
             {
                 if (AnimeInfo(0, "Area"))
                 {
-                    AddScoreNum = 3;
+                    AddScoreNum = 1;
                     _Animator.SetBool("0from1", true);
                 }
                 // スコア加算一段階目のアニメ
                 if (AnimeInfo(0, "AreaGauge1"))
                 {
-                    AddScoreNum = 3;
+                    AddScoreNum = 1;
                     _Animator.SetBool("1from2", true);
                 }
 
                 // スコア加算二段階目のアニメ
                 else if (AnimeInfo(0, "AreaGauge2"))
                 {
-                    AddScoreNum = 3;
+                    AddScoreNum = 2;
                     _Animator.SetBool("2from3", true);
                 }
 
