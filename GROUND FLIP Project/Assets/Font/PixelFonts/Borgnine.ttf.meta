@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: e922bb940d9322e44b8d6a53a9f8c35a
+timeCreated: 1512633653
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Borgnine
+  fontNames:
+  - Borgnine
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

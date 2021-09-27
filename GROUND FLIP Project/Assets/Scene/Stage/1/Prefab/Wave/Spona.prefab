@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1231893807770090}
+  m_IsPrefabAsset: 1
+--- !u!1 &1231893807770090
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4143125968491518}
+  - component: {fileID: 114658481389299470}
+  m_Layer: 0
+  m_Name: Spona
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4143125968491518
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1231893807770090}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 35.1, y: 0, z: 4.2421875}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114658481389299470
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1231893807770090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e02a5e5ce5349e409a7b5097ae0aade, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  waves:
+  - {fileID: 1762549923214258, guid: 5fb33d9daa5d45a4da55ced2b503a617, type: 2}
+  - {fileID: 1719664331033762, guid: 087fd1e5316e8a941a336b6cc69086b3, type: 2}
+  - {fileID: 1299655959619158, guid: 1a6e9194fd8fb5c4bbb161e71bfd6d58, type: 2}
+  - {fileID: 1038490387567902, guid: 16b974d8e37c3e14cbe4710e860b393b, type: 2}
+  - {fileID: 1827510357484988, guid: efaf5d1acd9f1a74f934d123bb1a99fd, type: 2}
+  - {fileID: 1586068464864682, guid: 144471f2ca3d852418c61e4be729cf1a, type: 2}
+  - {fileID: 1379738670934392, guid: 560faa81ab5b11a43a4e59996206b379, type: 2}
+  - {fileID: 1072121051940148, guid: ade979375fb04dd4b96a816264c4cca2, type: 2}
+  - {fileID: 1455071952845244, guid: f8977cc64b580be45a9f8522aada6be3, type: 2}
+  - {fileID: 1925398930531074, guid: fd53e75182889d5409b7bc78a1c006c9, type: 2}
+  - {fileID: 1866621289753148, guid: 7f16f505cd01357449decd32c16916ee, type: 2}
+  - {fileID: 1143293903993666, guid: ec276e7d054ed40498d25f3219c30646, type: 2}
+  - {fileID: 1374948830849526, guid: 26799a2a06289fb44a5ab42a92124bf4, type: 2}
+  - {fileID: 1972777139723208, guid: bcd3f4ff4f2c1114287a099194316d20, type: 2}
+  - {fileID: 1201177086300526, guid: 672240a199e6e5341bc19d30d64c95a7, type: 2}
+  - {fileID: 1614489916956878, guid: 809a10874e0885e468fa7477ea463942, type: 2}
+  - {fileID: 1381227130075636, guid: ca875167163d5964684aefdf06608069, type: 2}
+  - {fileID: 1035334005291070, guid: 259c944e2d98f3f4080f6816e15b4903, type: 2}
